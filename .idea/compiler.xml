@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Search_Engine" />
+        <module name="Search engine" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dictionary-reader" target="1.8" />
+      <module name="english" target="1.8" />
+      <module name="morph" target="1.8" />
+      <module name="morphology (1) (org.apache.lucene.morphology)" target="1.8" />
+      <module name="morphology (2) (org.apache.lucene.analysis)" target="1.8" />
+      <module name="russian" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Search_Engine" options="" />
+    </option>
+  </component>
+</project>

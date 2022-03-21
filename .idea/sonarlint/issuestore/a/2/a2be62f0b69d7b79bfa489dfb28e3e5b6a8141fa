@@ -1,0 +1,23 @@
+
+p
+java:S1450"URemove the "lemmas" field and declare it as a local variable in the relevant methods.(Ğ‡Ì¿úÿÿÿÿ
+h
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿¨ Ò
+E
+java:S1068"*Remove this unused "lemmas" private field.(Ğ‡Ì¿úÿÿÿÿ
+K
+java:S1144$"0Remove this unused private "sortingList" method.(°×‡úÿÿÿÿÿ
+I
+java:S1144-"3Remove this unused private "searchingPages" method.(¿¨ Ò
+O
+java:S1144q"2Remove this unused private "clearPageList" method.(šàò´8Ë½œÃî/
+\
+java:S1144{"?Remove this unused private "calculateAbsoluteRelevance" method.(ÿŞûŞ8•ŸÃî/
+i
+java:S1144‰"FRemove this unused private "calculateMaximumAbsoluteRelevance" method.(ì¼áşÿÿÿÿ8•ŸÃî/
+b
+java:S1144“"?Remove this unused private "calculateRelativeRelevance" method.(ûŞ‹Şşÿÿÿÿ8•ŸÃî/
+R
+java:S1144š"4Remove this unused private "sortingPageList" method.(·’Ã8•ŸÃî/
+_
+java:S1144"<Remove this unused private "createRelevantPagesList" method.(æµ­ûÿÿÿÿÿ8•ŸÃî/
