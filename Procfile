@@ -1,1 +1,1 @@
-web: java -jar target/search-engine.jar
+web: java -jar target/search-engine-4.0.jar
