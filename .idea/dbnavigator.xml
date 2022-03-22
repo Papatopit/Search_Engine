@@ -169,7 +169,7 @@ content MEDIUMTEXT NOT NULL
       </connection>
       <connection id="1bdfa681-e375-4590-a607-a7473bc72007" active="true" signed="false">
         <database>
-          <name value="Connection 1" />
+          <name value="PastgreSQL" />
           <description value="" />
           <database-type value="POSTGRES" />
           <config-type value="BASIC" />
