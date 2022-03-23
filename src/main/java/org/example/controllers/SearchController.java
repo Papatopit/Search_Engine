@@ -1,9 +1,9 @@
 package org.example.controllers;
 
 
-import lombok.RequiredArgsConstructor;
 import org.example.response.ErrorResponse;
 import org.example.services.SearchService;
+import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
