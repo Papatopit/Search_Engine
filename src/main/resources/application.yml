@@ -1,6 +1,6 @@
-spring.datasource.url: jdbc:mysql://localhost:3306/search_engine?allowPublicKeyRetrieval=true&amp&useSSL=false&amp&serverTimezone=UTC
-spring.datasource.username: root
-spring.datasource.password: kolokolnin
+spring.datasource.url: jdbc:mysql://papatoza.beget.tech:3306/papatoza_se?allowPublicKeyRetrieval=true&amp&useSSL=false&amp&serverTimezone=UTC
+spring.datasource.username: papatoza_se
+spring.datasource.password: 5OABCu40
 spring.batch.jdbc.table-prefix: search_engine
 spring.jpa.hibernate.ddl-auto: none
 spring.jpa.properties.hibernate.jdbc.batch_size: 5
@@ -9,6 +9,7 @@ spring.jpa.properties.hibernate.order_inserts: true
 server.port: 8080
 spring.liquibase.enabled: true
 
+
 url.default: /admin
 
 
@@ -16,8 +17,8 @@ useragent.name: searchBot/0.1
 
 siteconfig:
   sites:
-  - url: https://skillbox.ru
-    name: Skillbox
+  - url: https://fondoruso.ru
+    name: RealMadrid
   - url: https://www.lenta.ru
     name: Лента.ру
 
