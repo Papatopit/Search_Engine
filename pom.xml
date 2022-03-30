@@ -107,29 +107,29 @@
         </dependency>
 
 
-        <dependency>
-            <groupId>org.apache.lucene.morphology</groupId>
-            <artifactId>russian</artifactId>
-            <version>1.5</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.apache.lucene.morphology</groupId>-->
+<!--            <artifactId>russian</artifactId>-->
+<!--            <version>1.5</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>org.apache.lucene.morphology</groupId>
-            <artifactId>english</artifactId>
-            <version>1.5</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.apache.lucene.morphology</groupId>-->
+<!--            <artifactId>english</artifactId>-->
+<!--            <version>1.5</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>org.apache.lucene.morphology</groupId>
-            <artifactId>morph</artifactId>
-            <version>1.5</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.apache.lucene.morphology</groupId>-->
+<!--            <artifactId>morph</artifactId>-->
+<!--            <version>1.5</version>-->
+<!--        </dependency>-->
 
-        <dependency>
-            <groupId>org.apache.lucene.morphology</groupId>
-            <artifactId>dictionary-reader</artifactId>
-            <version>1.5</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.apache.lucene.morphology</groupId>-->
+<!--            <artifactId>dictionary-reader</artifactId>-->
+<!--            <version>1.5</version>-->
+<!--        </dependency>-->
 
         <dependency>
             <groupId>org.jetbrains</groupId>

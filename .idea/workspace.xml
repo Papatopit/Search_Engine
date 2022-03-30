@@ -9,7 +9,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175e1cf6-6861-43ab-9be9-1a014f27cea8" name="Changes" comment="Search engine" />
+    <list default="true" id="175e1cf6-6861-43ab-9be9-1a014f27cea8" name="Changes" comment="Search engine">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/analysis/morphology/1.5/morphology-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/analysis/morphology/1.5/morphology-1.5.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/analysis/morphology/1.5/morphology-1.5.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/analysis/morphology/1.5/morphology-1.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/analysis/morphology/1.5/morphology-1.5.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/analysis/morphology/1.5/morphology-1.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/analysis/morphology/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/analysis/morphology/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/analysis/morphology/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/english-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/english-1.5.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/english-1.5.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/english-1.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/english-1.5.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/english-1.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/1.5/morph-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/1.5/morph-1.5.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/1.5/morph-1.5.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/1.5/morph-1.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/1.5/morph-1.5.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/1.5/morph-1.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/russian-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/russian-1.5.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/russian-1.5.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/russian-1.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/russian-1.5.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/russian-1.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,8 +138,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/dictionary-reader-1.5.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33563218" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -153,13 +201,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638267149269</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Search Engine DiplomProject">
-      <created>1639312137556</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1639312137556</updated>
     </task>
     <task id="LOCAL-00003" summary="Search Engine DiplomProject">
       <created>1640005201079</created>
@@ -497,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648648971071</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Search engine">
+      <created>1648649116431</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1648649116431</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="UnknownFeatures">
