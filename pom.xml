@@ -26,9 +26,9 @@
 
     <repositories>
         <repository>
-            <id>project.local</id>
-            <name>project</name>
-            <url>file:${project.basedir}/lib</url>
+            <id>in-project</id>
+            <name>In Project Repo</name>
+            <url>file://${basedir}/lib</url>
         </repository>
     </repositories>
 
@@ -104,8 +104,8 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.22</version>
-            <scope>provided</scope>
         </dependency>
+
 
         <dependency>
             <groupId>org.apache.lucene.morphology</groupId>
