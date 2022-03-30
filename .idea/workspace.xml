@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Search_Engine:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="175e1cf6-6861-43ab-9be9-1a014f27cea8" name="Changes" comment="Search engine">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="53c6ff8c-bc1f-4359-8746-b84fd5418eec" />
+        <option name="url" value="https://github.com/Papatopit/Search_engine.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="21dNjde3Mdm0gy17hhhkoB9fL9d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="JavaMethodFindUsagesOptions.isOverridingMethods" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../landsreyk-search-engine-main" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33563218" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="utlities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\lib" />
+      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom" />
+      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\resources" />
+      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\java" />
+      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Павел\Desktop\Search_Engine_diplom" />
+      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\resources\static" />
+      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\resources\templates" />
+      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\resources\db" />
+      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\resources\template " />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+      <command value="mvn install" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppRunner " type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="application.AppRunner" />
+      <module name="Search_Engine_diplom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppRunner " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="175e1cf6-6861-43ab-9be9-1a014f27cea8" name="Changes" comment="" />
+      <created>1638267149269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638267149269</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Search Engine DiplomProject">
+      <created>1638450426930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638450426930</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Search Engine DiplomProject">
+      <created>1639312137556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639312137556</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Search Engine DiplomProject">
+      <created>1640005201079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640005201079</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Search Engine DiplomProject&#10;HTMLParsing and Lemmatizator">
+      <created>1642358905837</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642358905837</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Search Engine DiplomProject&#10;HTMLParsing and Lemmatizator">
+      <created>1642360040497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642360040497</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Search Engine DiplomProject&#10;HTMLParsing and Lemmatizator">
+      <created>1642487623371</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642487623371</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Search Engine DiplomProject&#10;HTMLParsing and Lemmatizator">
+      <created>1642507851508</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642507851508</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Search Engine DiplomProject&#10;HTMLParsing and Lemmatizator">
+      <created>1642682327881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642682327881</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Search Engine DiplomProject&#10;HTMLParsing and Lemmatizator">
+      <created>1642683438181</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642683438181</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Search Engine DiplomProject&#10;HTMLParsing and Lemmatizator">
+      <created>1642745054162</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642745054163</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Search Engine DiplomProject">
+      <created>1642746120503</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642746120503</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Search Engine DiplomProject">
+      <created>1642747586296</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642747586297</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Search Engine DiplomProject">
+      <created>1642747675688</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642747675688</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Search Engine DiplomProject">
+      <created>1642753256334</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753256334</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Search Engine DiplomProject">
+      <created>1643120143111</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643120143111</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Search Engine DiplomProject">
+      <created>1643620403144</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1643620403144</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Search Engine DiplomProject">
+      <created>1643638641641</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1643638641641</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Search Engine DiplomProject">
+      <created>1644232917679</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1644232917679</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Search Engine DiplomProject">
+      <created>1644262701978</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1644262701978</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Search Engine DiplomProject">
+      <created>1644579184348</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1644579184348</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Search Engine DiplomProject">
+      <created>1644607752795</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1644607752795</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Search Engine DiplomProject">
+      <created>1645625172434</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1645625172434</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Search Engine DiplomProject">
+      <created>1645894444776</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1645894444776</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Search Engine DiplomProject">
+      <created>1646763245667</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1646763245667</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Search Engine DiplomProject">
+      <created>1646763795413</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1646763795413</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Search Engine DiplomProject">
+      <created>1646896253892</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1646896253893</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Search Engine DiplomProject">
+      <created>1647858827386</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1647858827386</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Search Engine DiplomProject">
+      <created>1647859922318</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1647859922318</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Search Engine DiplomProject">
+      <created>1647866671932</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1647866671932</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Search Engine DiplomProject">
+      <created>1647866783335</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1647866783335</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Search Engine DiplomProject">
+      <created>1647867308643</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1647867308643</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Search Engine DiplomProject">
+      <created>1647942243294</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1647942243294</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Search Engine DiplomProject">
+      <created>1647942891359</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1647942891359</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Search Engine DiplomProject">
+      <created>1647943954547</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1647943954547</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Search Engine DiplomProject">
+      <created>1647947139039</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1647947139039</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Search Engine DiplomProject">
+      <created>1647951930274</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1647951930274</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Search Engine restructure">
+      <created>1648039992156</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1648039992156</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Search Engine restructure">
+      <created>1648040883723</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1648040883723</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Search Engine restructure">
+      <created>1648043407625</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1648043407625</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Search Engine restructure">
+      <created>1648112310055</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1648112310055</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Search Engine restructure">
+      <created>1648116599329</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1648116599329</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Search Engine restructure">
+      <created>1648120129306</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1648120129306</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Search Engine restructure">
+      <created>1648120324506</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1648120324506</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Search Engine restructure">
+      <created>1648120563329</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1648120563329</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Maven reload">
+      <created>1648198449932</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1648198449933</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Search engine">
+      <created>1648629318864</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1648629318864</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Search engine">
+      <created>1648629548441</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1648629548441</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Search engine">
+      <created>1648630361964</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1648630361964</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="application.properties" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Lemmatizator" />
+      <path value="$PROJECT_DIR$/Morph" />
+      <path value="$PROJECT_DIR$/russianmorphology" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Search Engine DiplomProject&#10;HTMLParsing and Lemmatizator" />
+    <MESSAGE value="Search Engine DiplomProject" />
+    <MESSAGE value="Search Engine restructure" />
+    <MESSAGE value="Maven reload" />
+    <MESSAGE value="Search engine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Search engine" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.jsoup.HttpStatusException" package="org.jsoup" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
