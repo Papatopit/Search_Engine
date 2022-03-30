@@ -1,1 +1,1 @@
-web: java -jar target/Search_Engine_diplom-1.0-SNAPSHOT.jar
+web: java -jar target/HTMLParsing-4.jar
