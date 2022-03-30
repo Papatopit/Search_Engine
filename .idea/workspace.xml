@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175e1cf6-6861-43ab-9be9-1a014f27cea8" name="Changes" comment="Search engine">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="175e1cf6-6861-43ab-9be9-1a014f27cea8" name="Changes" comment="Search engine" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,13 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638267149269</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Search Engine DiplomProject">
-      <created>1638450426930</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1638450426930</updated>
     </task>
     <task id="LOCAL-00002" summary="Search Engine DiplomProject">
       <created>1639312137556</created>
@@ -492,7 +483,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648630361964</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Search engine">
+      <created>1648648880868</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1648648880868</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Search engine">
+      <created>1648648971070</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1648648971071</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="UnknownFeatures">
