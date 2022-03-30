@@ -17,8 +17,8 @@ useragent.name: searchBot/0.1
 
 siteconfig:
   sites:
-  - url: https://fondoruso.ru
-    name: RealMadrid
+  - url: https://hotel-president.spb.ru
+    name: President Hotel
   - url: https://www.lenta.ru
     name: Лента.ру
 
