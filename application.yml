@@ -1,4 +1,4 @@
-spring.datasource.url: jdbc:mysql://papatoza.beget.tech:3306/papatoza_se?allowPublicKeyRetrieval=true&amp&useSSL=false&amp&serverTimezone=UTC
+spring.datasource.url: jdbc:mysql://papatoza.beget.tech:3306/papatoza_se
 spring.datasource.username: papatoza_se
 spring.datasource.password: 5OABCu40
 spring.batch.jdbc.table-prefix: search_engine
