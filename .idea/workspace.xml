@@ -10,7 +10,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175e1cf6-6861-43ab-9be9-1a014f27cea8" name="Changes" comment="Search engine">
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/1.5/dictionary-reader-1.5.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/dictionary-reader/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/english-1.5.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/english-1.5.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/1.5/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/1.5/morph-1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/1.5/morph-1.5.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morph/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morphology/1.5/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morphology/1.5/morphology-1.5.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/morphology/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/russian-1.5.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/russian-1.5.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/maven-metadata-local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dictionary-reader-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/english-1.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/english/1.5/english-1.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/morph-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/morphology-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/russian-1.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/org/apache/lucene/morphology/russian/1.5/russian-1.5.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +99,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
@@ -93,22 +122,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33563218" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Advanced" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="utlities" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Павел\Desktop\Search_Engine_diplom\lib" />
       <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\lib" />
       <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom" />
       <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\resources" />
       <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\java" />
-      <recent name="C:\Users\Павел\Documents\Skillbox\java_basics\Search_Engine_diplom\src\main\resources\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Павел\Desktop\Search_Engine_diplom" />
@@ -156,20 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638267149269</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Search Engine DiplomProject">
-      <created>1642747586296</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1642747586297</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Search Engine DiplomProject">
-      <created>1642747675688</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1642747675688</updated>
     </task>
     <task id="LOCAL-00014" summary="Search Engine DiplomProject">
       <created>1642753256334</created>
@@ -500,7 +515,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648705179576</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Search engine">
+      <created>1648706201490</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1648706201491</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Search engine">
+      <created>1648706255984</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1648706255984</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="UnknownFeatures">
