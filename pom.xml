@@ -29,6 +29,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.6.3</version>
                 <executions>
                     <execution>
                         <goals>
@@ -99,18 +100,12 @@
             <version>1.18.22</version>
         </dependency>
 
+
         <dependency>
-            <groupId>javax.validation</groupId>
-            <artifactId>validation-api</artifactId>
-            <version>2.0.1.Final</version>
+            <groupId>org.apache.lucene.morphology</groupId>
+            <artifactId>russian</artifactId>
+            <version>1.5</version>
         </dependency>
-
-
-<!--        <dependency>-->
-<!--            <groupId>org.apache.lucene.morphology</groupId>-->
-<!--            <artifactId>russian</artifactId>-->
-<!--            <version>1.5</version>-->
-<!--        </dependency>-->
 
 <!--        <dependency>-->
 <!--            <groupId>org.apache.lucene.morphology</groupId>-->
